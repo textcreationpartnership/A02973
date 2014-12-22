@@ -36,11 +36,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The oration and declaration of the French King, Henrie the fourth of that name and by the grace of G
+
 #####Body#####
-The oration and declaration of the French King, Henrie the fourth of that name and by the grace of G
+
+1. THE ORATION AND DECLAration of the French king, Henrie the fourth of that name, and by the grace of God, King of Nauarre.
+
 #####Back#####
-The oration and declaration of the French King, Henrie the fourth of that name and by the grace of G
+Imprinted at London by Richard Field, for I.B. and are to be ſold by Humfrey Lownes at the Weſt dore
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
